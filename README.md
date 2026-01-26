@@ -1,14 +1,5 @@
 Hi, I'm Manideep royal
-🌱 Aspiring Data Scientist | Machine Learning Enthusiast | Crop Recommendation Developer
-About Me
-Passionate about applying machine learning to agriculture and environmental challenges.
-
-Skilled in Python, data analysis, and building predictive models.
-
-Currently working on a Crop Recommendation System to help farmers choose the best crop based on soil and weather data.
-
-Always eager to learn and collaborate on impactful projects!
-
+’im pursing  a post graduate diploma management  in Business Analytics and Finance. I enjoy working with data to uncover insights, support business decisions, and solve real-world problems. I’m especially interested in applying analytics in finance and agri-business domains
 📂 Featured Project: Crop Recommendation System
 
 Built a machine learning model using Random Forest to recommend crops based on soil nutrients and climate.
